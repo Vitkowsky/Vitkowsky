@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vitkowsky
 - 👀 I’m interested in code
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me worktz33@gmail.com
 
 <!---
